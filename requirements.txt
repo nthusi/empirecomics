@@ -17,7 +17,6 @@ filetype==1.2.0
 idna==3.10
 l18n==2021.3
 laces==0.1.1
-NEURON==8.0
 openpyxl==3.1.5
 pillow==10.4.0
 pillow_heif==0.18.0
