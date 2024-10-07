@@ -1,0 +1,33 @@
+#We add the list of patters (files and folders) to be ignored by git starting with .venv
+empirecomics/.venv
+
+# Our General list
+.venv
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.cfg
+
+# Directories potentially created on remote AFP share
+.AppleDouble
+.AppleDesktop
+Network Trash Folder
+Temporary Items 
+.apdisk
+
+
